@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @semikoder2
+- 👀 I’m interested in Unity Game Development and networking
+- 🌱 I’m currently improving myself in Unity 3D Game Development, also developing 2 games. 
+- 💞️ I’m looking to collaborate on OSS's.
